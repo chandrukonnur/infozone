@@ -48,7 +48,7 @@ InfoZone is built to solve the problem of information overload by providing shor
 
 | Detailed View | Search Screen | Favorite |
 |---------------|----------------|----------|
-| ![](./screenshots/detail.png) | ![](./screenshots/search.png) | ![](./screenshots/favorite.png) |
+| ![](./detail.png) | ![](./screenshots/search.png) | ![](./screenshots/favorite.png) |
 
 
 ---
