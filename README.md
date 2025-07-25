@@ -50,7 +50,6 @@ InfoZone is built to solve the problem of information overload by providing shor
 |---------------|----------------|----------|
 | ![](./screenshots/detail.png) | ![](./screenshots/search.png) | ![](./screenshots/favorite.png) |
 
-> 📁 _You can add your actual screenshot image files inside a `screenshots/` folder in the repo._
 
 ---
 
