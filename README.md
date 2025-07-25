@@ -44,7 +44,7 @@ InfoZone is built to solve the problem of information overload by providing shor
 
 | Launch Screen | No Internet | News Feed |
 |---------------|-------------|-----------|
-| ![](infozone/app/screenshots/logo.png) | ![](./screenshots/no_internet.png) | ![](./screenshots/news_feed.png) |
+| ![](./screenshots/logo.png) | ![](./screenshots/no_internet.png) | ![](./screenshots/news_feed.png) |
 
 | Detailed View | Search Screen | Favorite |
 |---------------|----------------|----------|
